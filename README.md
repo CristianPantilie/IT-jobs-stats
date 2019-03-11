@@ -7,7 +7,11 @@ It works by following a link to a job openings site (https://www.ejobs.ro/locuri
 
 
 TODO:
-    make it work for databases, frameworks and technologies 
-    make it city specific
-    maybe have it visist multiple sites (though I'd have to watch for duplicate postings)
-    build a pretty interface using matplotlib and django and host it somewhere
+
+   - make it work for databases, frameworks and technologies 
+    
+   - make it city specific
+    
+   - maybe have it visist multiple sites (though I'd have to watch for duplicate postings)
+    
+   - build a pretty interface using matplotlib and django and host it somewhere
