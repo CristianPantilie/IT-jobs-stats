@@ -4,6 +4,9 @@ A Python web crawler built using Scrapy. Working on it I've learned a lot about 
 
 It works by following a link to a job openings site (https://www.ejobs.ro/locuri-de-munca/it-software/) and then going through every link of every page to analyse the relevant text using regular expressions. 
 
+To run (on Linux): have scrapy installed, cd to the jobs directory and run the command: 'scrapy crawl jobs'
+
+Result:
 
 
 TODO:
