@@ -8,6 +8,8 @@ To run (on Linux): have scrapy installed, cd to the jobs directory and run the c
 
 Result:
 
+![alt text](https://github.com/oftigus/IT-jobs-stats/blob/master/result.png)
+
 
 TODO:
 
